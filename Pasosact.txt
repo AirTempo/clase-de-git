@@ -9,3 +9,6 @@ git config --global user.email "direccion_de_email@dominio.com"
 								-> git commit -m "Descripción del cambio"
 
 (Historial de commits) git log / --oneline (abreviada) / --graph (detalle de ramas)
+git remote add origin <url_repositorio>
+git branch -M main
+git push -u origin main
